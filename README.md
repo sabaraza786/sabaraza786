@@ -13,7 +13,7 @@
 - Backend frameworks & database systems
 - Real-world projects and open-source collaboration.
 - 📧 Email: [razasaba86@gmail.com](mailto:razasaba86@gmail.com)
-- 💻 GitHub: [github.com/sabaraza](https://github.com/sabaraza)
+- 💻 GitHub: [https://github.com/sabaraza786)
 
   # 👋 Hi, I’m Saba Raza
 🔍 Passionate learner and problem solver, focused on building meaningful software.  
