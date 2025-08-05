@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on improving my **Data Structures, Algorithms** and learning **System Design**.
 - 🌱 I’m currently learning **Backend Engineering** and contributing to projects using **C++**, **JavaScript**, **HTML**, and **CSS**.
 - 💬 Ask me about **C++**, **DSA**, and **Web Development basics**.
-- 📫 Reach me at: **sabaraza.example@gmail.com**
+- 📫 Reach me at: **razasaba86gmail.com**
 - ⚡ Fun fact: I love solving logical riddles and challenges!
 
 ---
