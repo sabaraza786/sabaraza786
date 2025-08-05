@@ -12,7 +12,7 @@
 - LeetCode & coding challenges
 - Backend frameworks & database systems
 - Real-world projects and open-source collaboration.
-- 📧 Email: [sabaraza123@gmail.com](mailto:sabaraza86@gmail.com)
+- 📧 Email: [razasaba86@gmail.com](mailto:razasaba86@gmail.com)
 - 💻 GitHub: [github.com/sabaraza](https://github.com/sabaraza)
 
   # 👋 Hi, I’m Saba Raza
